@@ -5,3 +5,5 @@ Buscando en la web una base de datos con información de sobre Estados, Municipi
 
 Aqui mi entrada de blog original. https://josearodrigueze.wordpress.com/2013/04/23/bd-pais-estado-municipio-parroquia/
 
+Quien quiera colaborar agregar algo mas, con gusto cuadramos, anexo mi correo: josearodrigueze@gmail.com
+
